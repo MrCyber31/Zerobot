@@ -1,5 +1,5 @@
-# JOJO-MD
-Jojo Bot Multi Device
+# ZERO-BOT MD
+Zero BOT Multi Device
 
 ## Module Untuk Multi Device
 Module nya :
